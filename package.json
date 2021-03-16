@@ -13,7 +13,8 @@
     "react-dom": "^16.4.2",
     "react-redux": "^5.0.7",
     "react-router": "^4.3.1",
-    "react-router-dom": "^4.3.0"
+    "react-router-dom": "^4.3.0",
+    "nlp": "0.0.0"
   },
   "devDependencies": {
     "autoprefixer": "^9.5.1",
